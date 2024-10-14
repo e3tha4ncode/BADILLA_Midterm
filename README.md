@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the files developing a simple university enrollment system using object-oriented programming concepts in Java.
+This repository contains file developing a simple university enrollment system using object-oriented programming concepts in Java.
 
 ### Files Included
 
